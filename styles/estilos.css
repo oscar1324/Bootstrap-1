@@ -22,9 +22,9 @@ main {
 
 aside>div {
     background: #dee5e8;
-    padding: 60px 0;
+    padding: 30px;
     color: #0d47a1;
-    margin: 20px;
+    margin: 30px;
 }
 
 .widgets {
@@ -45,7 +45,8 @@ footer {
 }
 
 footer>div {
-    padding: 20px 0;
+
+    padding: 25px;
     background: #1e1e1e;
-    margin: 30px;
+    margin: 40px;
 }
